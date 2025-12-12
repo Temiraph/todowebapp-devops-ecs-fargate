@@ -1,0 +1,11 @@
+infra/terraform.tfvars
+# Terraform
+**/.terraform/*
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+**/.terraform.lock.hcl
+
+# OS / editor
+.DS_Store
+.vscode/
